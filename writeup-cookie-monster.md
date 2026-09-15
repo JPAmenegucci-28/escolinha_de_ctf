@@ -2,6 +2,7 @@
 
 * **Plataforma:** Escolinha CTF
 * **Categoria:** Web
+* **Flag:** FLAG{...}
 * **Objetivo:** Conseguir encontrar a flag por meio das permissões de cookies do site.
 
 ## Análise Inicial
