@@ -5,4 +5,4 @@ The purpose of this repository is to house the solutions to exercises from a cyb
 
 * [Challenge: Bem Vindo](./writeup-bem-vindo.md) - Introduction and basic source code analysis (Web)
 * [Challenge: Cookie Monster](./writeup-cookie-monster.md) - Cookie and session handling (Web)
-* [Challenge: Cebola Criptográfica](./writeup-cebola-criptografica.md) -Encryption and layering challenge (Crypto)
+* [Challenge: Cebola Criptográfica](./writeup-sintaxe-alternativa.md) -Encryption and layering challenge (Crypto)
